@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-[Create a Game with R3F](https://create-a-game-with-r3f-iota.vercel.app/)
+[Marble Race](https://create-a-game-with-r3f-iota.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
